@@ -1,0 +1,125 @@
+.borderu{
+	left: 170px;
+    position: relative;
+    margin: 1px;
+    padding: 2px;
+    float: left;
+    top: 8px;
+    width: 850px;
+    height: 1050px;
+    border-width:3px;
+    border-style: solid;
+    border-color: #777;
+    border-radius: 5px;
+}
+.borderf{
+    left: 170px;
+    position: relative;
+    margin: 1px;
+    padding: 2px;
+    float: left;
+    top: 8px;
+    width: 850px;
+    height: 2150px;
+    border-width:3px;
+    border-style: solid;
+    border-color: #777;
+    border-radius: 5px;
+}
+.room{
+    position: relative;
+    top: 20px;
+    left: 330px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    height: 320px;
+    margin: 0px;
+    padding-left: 0px;
+}
+div.room img {
+    width: 100%;
+    height: auto;
+}
+.galerius{
+    position: relative;
+    background-color: #e4f0ff;
+    border-radius: 5px;
+    left: 210px;
+    top: 17px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 390px;
+    height: 480px;
+}
+div.galerius:hover {
+    border: 1px solid #777;
+}
+.galerius img{
+    top: 7px;
+    width: 50%;
+    height: auto;
+    position: relative;
+    left: 100px;
+}
+li.demo{
+    list-style-type: none;
+}
+/*.desc {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    width: 140px;
+    height: 120px;
+    border: 1px solid white;
+    font-family: times;
+    font-size: 12px;
+    word-spacing: 1px;
+    line-height: 25px;
+}*/
+table{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.td{
+	text-align: center;
+}
+div.n{
+    margin-left: 340px;
+    width: 500px;
+    height: 9px;
+    font-family: rockwell;
+    font-size: 20px;
+    padding-bottom: 8px; 
+}
+table {
+    border-collapse: green;
+    width: 90%;
+}
+
+th, td {
+    padding: 8px;
+    
+}
+
+tr:nth-child(even) {background-color: yellow;}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.admin{
+	background: url("Projek/admin.jpg");
+	position: relative;
+    margin-left: 160px;
+    margin-right: -150px;
+    top: 5px;
+    padding: 8px 15px;
+    width: 170px;
+    height: 180px;
+    text-align: center;
+    color: white;
+    border : 1px solid black;
+    float: left;
+}
